@@ -1,0 +1,34 @@
+home: Trang chủ
+archives: Nhật ký
+about: Về chúng tôi
+categories: Chủ đề
+search: Tìm kiếm
+tags: Tags
+tagcloud: Tag Cloud
+tweets: Tweets
+prev: Trước
+next: Tiếp
+comment: Bình luận
+archive_a: Nhật ký
+archive_b: "Nhật ký: %s"
+page: Trang %d
+recent_posts: Bài viết gần đây
+newer: Mới hơn
+older: Cũ hơn
+share: Chia sẻ
+theme_by: Design by
+rss_feed: RSS Feed
+category: Category
+tag: Tag
+connect: 'Kết nối'
+post_total_count: Có tổng cộng %d bài viết đến hiện tại.
+read_more: Continue Reading →
+contents: Contents
+none: None
+insight:
+    hint: 'Type something...'
+    posts: 'Posts'
+    pages: 'Pages'
+    categories: 'Categories'
+    tags: 'Tags'
+    untitled: '(Untitled)'
